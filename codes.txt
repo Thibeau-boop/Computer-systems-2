@@ -1,0 +1,15 @@
+Deze codes zijn OK:
+BE17 4865 1730 5221
+En ook deze BE83 0843 0430 2015 is ok
+OokdezeBE07 1835 0474 2466isok!
+BE17486517305221
+Dit is een mooie... BE83084304302015 code.
+MooiecodeBE07183504742466hier.
+
+Deze codes zijn NOK:
+BE17 4865 1730 5223
+Probeer met BE83 0843 0430 2012 geen fraude te plegen!
+GeenfraudemetdezeaubBE07 1835 0474 2461!
+BE17486517705221
+Tekst met code BE83084304322015 in.
+DezecodemoetjevindenBE07183504742566...
